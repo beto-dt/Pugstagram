@@ -1,3 +1,12 @@
+<script>
+  import Profile from './Profile.svelte';
+  import Storie from './Storie.svelte';
+  import Footer from './Footer.svelte';
+</script>
 <div class="Sidebar">
-  <h1>Sidebar</h1>
+  <div class="Sidebar-container">
+    <Profile /> 
+    <Storie />
+    <Footer />
+  </div>
 </div>
