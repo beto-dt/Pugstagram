@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/beto-dt/Pugstagram#readme",
   "dependencies": {
-    "svelte": "^3.23.2"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
